@@ -1,9 +1,9 @@
-## 👋Nice to see you,I'm Mark Zhang
-Here is a computer student, practicing code for half year,and is continuing to learn
-- 🌱 I’m currently learning  Java/Python/Data structure/Algorithms
-- 💬 Ask me about  Java/Python/c++/
+## 👋is mark
+a computer student, is continuing to learn
+- 🌱 I’m currently learning  Java/Python/...
+- 💬 Ask me about  Java/Mysql/Linux/...
 - 📫 How to reach me: 2483178594@qq.com
-- ⚡ Fun fact: Fitness/algorithmic/games
+- ⚡ Fun fact: Fitness/algorithmic/
 ### My Stats
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark32123&show_icons=true&theme=radical)
