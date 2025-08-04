@@ -7,7 +7,7 @@ programming and powerlifting
 
 if you are interested, you can communicate with me to learn and make progress together
 
-please contact me :point_right: 2483178594@qq.com
+please contact me 
 
 
 ### :poultry_leg:My Stats
