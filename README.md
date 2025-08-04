@@ -1,4 +1,4 @@
-<img width="151" height="27" alt="image" src="https://github.com/user-attachments/assets/b71fab03-186b-42ee-9c26-a20b19e7db4d" />![header](https://capsule-render.vercel.app/api?&height=200&type=blur&color=timeGradient&section=header&text=Hi,There~-nl-Welcome%20to%20Mark's%20channel&fontColor=d6ace6&fontAlignY=20&animation=twinkling&fontSize=50)
+![header](https://capsule-render.vercel.app/api?&height=200&type=blur&color=timeGradient&section=header&text=Hi,There~-nl-Welcome%20to%20Mark's%20channel&fontColor=d6ace6&fontAlignY=20&animation=twinkling&fontSize=50)
 
 ### :boom:Introduce
 a computer student, is continuing to learn
