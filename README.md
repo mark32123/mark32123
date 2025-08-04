@@ -1,15 +1,23 @@
-## 👋is mark
+<img width="151" height="27" alt="image" src="https://github.com/user-attachments/assets/b71fab03-186b-42ee-9c26-a20b19e7db4d" />![header](https://capsule-render.vercel.app/api?&height=200&type=blur&color=timeGradient&section=header&text=Hi,There~-nl-Welcome%20to%20Mark's%20channel&fontColor=d6ace6&fontAlignY=20&animation=twinkling&fontSize=50)
+
+### :boom:Introduce
 a computer student, is continuing to learn
-- 🌱 I’m currently learning  Java/Python/...
-- 💬 Ask me about  Java/Mysql/Linux/...
-- 📫 How to reach me: 2483178594@qq.com
-- ⚡ Fun fact: Fitness/algorithmic/
-### My Stats
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark32123&show_icons=true&theme=radical)
-### Most Used Languages
+programming and powerlifting 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark32123)](https://github.com/mark32123/github-readme-stats)
-### My Skill Set
+if you are interested, you can communicate with me to learn and make progress together
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+please contact me :point_right: 2483178594@qq.com
+
+
+### :poultry_leg:My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=mark32123&theme=github-green-purple&border_radius=4.9&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=505&type=png)](https://git.io/streak-stats)
+
+### :date:Activity graph
+[![Mark's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mark32123&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### :gem: My Skill Set
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,nodejs,vue,git,idea,linux&theme=light)](https://skillicons.dev)
+
+![](https://komarev.com/ghpvc/?username=mark32123&color=green)
+
