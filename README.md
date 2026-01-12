@@ -3,8 +3,7 @@
 
 - 🔭 **Learning the Java stack...**
 - 🌱 **I have a great interest in AI large models, front-end development, 和 algorithms.**
-- 👯 **Currently in the first year of study, welcome to communicate with me.**
-- 📫 **2483178594@gmail.com**
+- 👯 **welcome to communicate with me.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
