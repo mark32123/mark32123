@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&height=200&type=blur&color=timeGradient&section=header&text=Hi,There~-nl-Welcome%20to%20Mark's%20channel&fontColor=d6ace6&fontAlignY=20&animation=twinkling&fontSize=50)
-### Explore the unknown
+# "Let life unfold naturally, like a straw raincoat in the rain and mist."
 
 
 
@@ -11,8 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Mark32123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mark32123" height="30" width="40" /></a>
-<a href="https://instagram.com/human_oto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="human_oto" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iammark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iammark" height="30" width="40" /></a>
 <a href="https://leetcode.com/Ice_-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ice_-" height="30" width="40" /></a>
 </p>
 
