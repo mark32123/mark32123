@@ -6,7 +6,7 @@
 <a href="https://leetcode.com/Ice_-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ice_-" height="30" width="40" /></a>
 </p>
 
-## I'm a sophomore majoring in Computer Science and Technology (Software Development), currently learning the Spring framework,etc. My future career aspirations are backend development. I enjoy developing interesting apps and plugins. If you're also interested, feel free to connect with me.
+## I'm a sophomore majoring in Computer Science and Technology (Software Development), currently learning the Spring framework,etc. My future career aspirations are RD. I enjoy developing interesting apps and plugins. If you're also interested, feel free to connect with me.
   
   <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
