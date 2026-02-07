@@ -24,3 +24,5 @@ I'm a sophomore majoring in **Computer Science and Technology (Software Developm
 <img src="https://img.shields.io/badge/QQ-2483178594-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" />
 </p>
 
+![snake svg](https://raw.githubusercontent.com/mark32123/mark32123/output/github-contribution-grid-snake.svg)
+
