@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "5 16 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -15,10 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # 第一步：下载仓库所有文件（包含 README）
       - uses: actions/checkout@v3
 
-      # 第二步：生成贪吃蛇图片
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,11 +25,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-# 第三步：把图片塞进仓库并推送到 main 分支
       - name: Push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "mark32123"
+          git config --global user.email "2483178594@qq.com"
           git add dist/*.svg
           git commit --allow-empty -m "chore: update snake animation $(date)"
           git push
