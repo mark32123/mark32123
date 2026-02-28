@@ -25,6 +25,6 @@ I'm a sophomore majoring in **Computer Science and Technology (Software Developm
 </p>
 
 ### 🐍 Contribution
-![snake](https://raw.githubusercontent.com/mark32123/mark32123/main/dist/github-contribution-grid-snake.svg)
+![snake](./dist/github-contribution-grid-snake.svg)
 
 ---
