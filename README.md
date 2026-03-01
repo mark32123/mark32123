@@ -1,6 +1,6 @@
 # Hi~ I'm Mark <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-> "I behold my past, It accompanies my gaze toward spring."
+> "I behold my past, It accompanies my gaze toward spring ."
 
 I'm a sophomore majoring in **Computer Science and Technology (Software Development)**. I enjoy developing interesting apps and plugins. If you're also interested, feel free to connect with me.
 
