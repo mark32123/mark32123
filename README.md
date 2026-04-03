@@ -17,9 +17,7 @@ I'm a sophomore majoring in **Computer Science and Technology (Software Developm
 ### 🌐 Connect with Me
 <p align="left">
 <a href="mailto:bentekkezh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="20" /></a>
-<a href="https://www.douyin.com/user/self?from_tab_name=main"><img src="https://img.shields.io/badge/Douyin-000000?style=flat&logo=douyin&logoColor=white" height="20" /></a>
 <a href="https://www.xiaohongshu.com/user/profile/63857ae6000000001f01e65d"><img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=flat&logo=xiaohongshu&logoColor=white" height="20" /></a>
-<a href="https://space.bilibili.com/450416207"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white" height="20" /></a>
 <img src="https://img.shields.io/badge/WeChat-sbd2024jy-07C160?style=flat&logo=wechat&logoColor=white" height="20" />
 <img src="https://img.shields.io/badge/QQ-2483178594-12B7F5?style=flat&logo=tencent-qq&logoColor=white" height="20" />
 </p>
