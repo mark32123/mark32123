@@ -2,15 +2,9 @@
 
 > "I behold my past, It accompanies my gaze toward spring ."
 
-I'm a sophomore majoring in **Computer Science and Technology (Software Development)**. I enjoy developing interesting apps and plugins. If you're also interested, feel free to connect with me.
+I'm a sophomore majoring in **Computer Science and Technology (Software Development)**. If you're also interested, feel free to connect with me.
 
 ---
-
-### 💼 Things that I'm currently working on
-* 🗄️ Learning RDBMS and write better table structures.
-* ☕ Learning Java 8 features.
-* 🏋️ Designing a powerlifting app.
-
 ### 🌱 Tech Stack
 ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
