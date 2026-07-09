@@ -1,9 +1,9 @@
 # Hi, I'm Mark 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Email-markkyy%40163.com-1e222b?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/Blog-CSDN-1e222b?style=for-the-badge&logo=cplusplus&logoColor=FC5531" alt="Blog" />
-  <img src="https://img.shields.io/badge/Location-GuangZhou_China-1e222b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="mailto:markkyy@163.com"><img src="https://img.shields.io/badge/Email-markkyy%40163.com-1e222b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://blog.csdn.net/2402_88933804"><img src="https://img.shields.io/badge/Blog-CSDN-1e222b?style=for-the-badge&logo=csdn&logoColor=FC5531" alt="Blog" /></a>
+  <a href="https://www.google.com/maps/place/Guangzhou,+Guangdong,+China"><img src="https://img.shields.io/badge/Location-GuangZhou_China-1e222b?style=for-the-badge&logo=googlemaps&logoColor=4285F4" alt="Location" /></a>
 </p>
 
 ### 👨‍💻 About Me
