@@ -10,9 +10,7 @@
 
 我是一名计算机科学与技术专业的大三学生，专注于 AI 增强的后端设计。我致力于构建高性能的后端架构，并通过现代智能化工作流实现开发效能的提升。
 
-- **Backend & Architecture**: 掌握 SpringCloud 微服务体系
-- **AI Integration**: 利用 Spring AI 与 LLM 赋能应用，探索 RAG 架构与智能化业务场景的落地
-- **Engineering Efficiency**: 熟练运用AI Coding Tools构建高效自动化开发工作流
+As a Computer Science and Technology junior focused on AI-augmented backend design, I specialize in architecting high-performance systems and leveraging modern AI workflows to drive engineering productivity.
 
 ---
 
@@ -20,25 +18,44 @@
 
 <table width="100%">
   <tr>
-    <td width="33.3%" valign="top">
-      <b>🔴 Backend</b><br><br>
-      • Spring 全家桶<br>
-      • Alibaba Cloud<br>
+    <td width="20%" valign="top">
+      <b>🔤 编程语言</b><br>
+      <i>Languages</i><br><br>
+      • Java<br>
+      • Python<br>
+      • SQL<br>
+    </td>
+    <td width="20%" valign="top">
+      <b>🧱 核心框架</b><br>
+      <i>Frameworks</i><br><br>
+      • Spring Boot<br>
+      • Spring Cloud<br>
+      • MyBatis-Plus<br>
+      • Vue 3
+    </td>
+    <td width="20%" valign="top">
+      <b>💾 中间件</b><br>
+      <i>Middleware</i><br><br>
+      • MySQL<br>
+      • Redis<br>
+      • RabbitMQ<br>
       • Elasticsearch<br>
-      • Redis/MySQL/MP<br>
-      • Docker <br>
-      • 分布式架构设计
+      • 分布式架构
     </td>
-    <td width="33.3%" valign="top">
-      <b>🧪 AI</b><br><br>
-      • <b>Spring AI</b><br>
-      • 提示词工程
-    </td>
-    <td width="33.3%" valign="top">
-      <b>🔵 Efficiency & Frontend</b><br><br>
-      • <b>IDE: qoder / ...</b><br>
-      • Vue 3<br>
+    <td width="20%" valign="top">
+      <b>🐳 云原生,DevOps</b><br>
+      <i>DevOps & Infra</i><br><br>
+      • Docker<br>
+      • Alibaba Cloud<br>
       • Git
+    </td>
+    <td width="20%" valign="top">
+      <b>🤖 AI </b><br>
+      <i>AI & Workflows</i><br><br>
+      • Spring AI<br>
+      • 提示词工程<br>
+      • Qoder / Cursor<br>
+      • AI 智能工作流
     </td>
   </tr>
 </table>
