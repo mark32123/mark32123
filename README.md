@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me
 
-我是一名计算机科学与技术专业的大三学生，专注于 AI 增强的后端设计。我致力于构建高性能的后端架构。
+我是一名计算机科学与技术专业的大三学生，专注于 AI 增强的后端设计，构建高性能的后端架构。
 
-As a Computer Science and Technology junior focused on AI-augmented backend design, I specialize in architecting high-performance systems.
+As a Computer Science and Technology junior focused on AI-augmented backend design, architecting high-performance systems.
 
 ---
 
